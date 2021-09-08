@@ -89,6 +89,8 @@ table{
 table th, td{
     padding: 5px;
     border: 1px solid #3399CC;
+}
+table td{
     text-align: center;
 }
 table .text{
